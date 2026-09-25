@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mudavath Lalitha
 
-### B.Tech CSE Student | Aspiring Software Developer from Hyderabad 🚀
+### B.Tech AIML Student | Aspiring Software Developer from Hyderabad 🚀
 
 💫 About Me:
 - 🔭 Currently working on Building Projects at InAmigos Foundation
